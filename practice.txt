@@ -1,5 +1,0 @@
-direct commit?
-practicing git
-
-oo lala
-stash
