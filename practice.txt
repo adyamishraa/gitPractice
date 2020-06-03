@@ -1,11 +1,3 @@
 direct commit?
 practicing git
 
-oo lala
-<<<<<<< Updated upstream
-stash
-cool admin
-I'm doing this to check what reset is.
-=======
-stash
->>>>>>> Stashed changes
