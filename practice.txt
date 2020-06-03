@@ -2,5 +2,5 @@ direct commit?
 practicing git
 
 oo lala
-stash without -u
 cool admin
+
